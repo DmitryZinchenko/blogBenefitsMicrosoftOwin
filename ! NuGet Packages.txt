@@ -1,0 +1,2 @@
+Install-Package Microsoft.Owin.SelfHost -Version 3.0.1 -Source nuget.org -ProjectName SelfHost
+Install-Package Microsoft.Owin -Version 3.0.1 -Source nuget.org -ProjectName Middlewares
